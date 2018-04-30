@@ -39,6 +39,7 @@
             this.btnInitialise.TabIndex = 0;
             this.btnInitialise.Text = "Initialise";
             this.btnInitialise.UseVisualStyleBackColor = true;
+            this.btnInitialise.Click += new System.EventHandler(this.btnInitialise_Click);
             // 
             // Form1
             // 
